@@ -1,0 +1,11 @@
+C:\Users\thici\Documents\IFRO\codigos\Revisao-Primeira-Etapa\bin\Debug\Revisao-Primeira-Etapa.exe.config
+C:\Users\thici\Documents\IFRO\codigos\Revisao-Primeira-Etapa\bin\Debug\Revisao-Primeira-Etapa.exe
+C:\Users\thici\Documents\IFRO\codigos\Revisao-Primeira-Etapa\bin\Debug\Revisao-Primeira-Etapa.pdb
+C:\Users\thici\Documents\IFRO\codigos\Revisao-Primeira-Etapa\obj\Debug\Revisao-Primeira-Etapa.csproj.AssemblyReference.cache
+C:\Users\thici\Documents\IFRO\codigos\Revisao-Primeira-Etapa\obj\Debug\Revisao-Primeira-Etapa.csproj.SuggestedBindingRedirects.cache
+C:\Users\thici\Documents\IFRO\codigos\Revisao-Primeira-Etapa\obj\Debug\Revisao_Primeira_Etapa.Form1.resources
+C:\Users\thici\Documents\IFRO\codigos\Revisao-Primeira-Etapa\obj\Debug\Revisao_Primeira_Etapa.Properties.Resources.resources
+C:\Users\thici\Documents\IFRO\codigos\Revisao-Primeira-Etapa\obj\Debug\Revisao-Primeira-Etapa.csproj.GenerateResource.cache
+C:\Users\thici\Documents\IFRO\codigos\Revisao-Primeira-Etapa\obj\Debug\Revisao-Primeira-Etapa.csproj.CoreCompileInputs.cache
+C:\Users\thici\Documents\IFRO\codigos\Revisao-Primeira-Etapa\obj\Debug\Revisao-Primeira-Etapa.exe
+C:\Users\thici\Documents\IFRO\codigos\Revisao-Primeira-Etapa\obj\Debug\Revisao-Primeira-Etapa.pdb
